@@ -15,6 +15,8 @@
 
 O objetivo deste estudo foi realizar a migração de um projeto de Javascript para Typescript e de Class Components para Function Components utilizando o ReactJS.
 
+&#xa0;
+
 ## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -23,6 +25,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+&#xa0;
 
 ## :white_check_mark: Pré requisitos
 
@@ -54,8 +58,12 @@ $ yarn start
 
 Se você deseja contribuir com o projeto, basta fazer um fork do repositório, criar uma branch com sua feature, fazer commit das alterações, fazer push para a sua branch e, quando o merge da sua pull request for realizado, deletar a sua branch.
 
+&#xa0;
+
 ## Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+&#xa0;
 
 Feito com :heart: por <a href="https://github.com/guiaquinodev" target="_blank">Guilherme Aquino</a>
