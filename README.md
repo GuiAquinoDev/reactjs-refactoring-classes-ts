@@ -9,7 +9,9 @@
 # GORestaurant - Refactoring de classes e typescript
 
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+ <p align="center">
+ <img src="./.github/app-preview.gif" alt="Refactoring de classes e typescript" />
+ </p>
 
 
 ## Sobre 
