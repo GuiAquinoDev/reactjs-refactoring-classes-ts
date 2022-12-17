@@ -28,13 +28,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 &#xa0;
 
-## :white_check_mark: Pré requisitos
+## Pré requisitos
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
 
 &#xa0;
 
-## :checkered_flag: Começando
+## Começando
 
 ```bash
 # Clone este repositório
